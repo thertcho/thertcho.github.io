@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://thertcho.github.io/sitemap.thertcho.gz
+Sitemap: https://thertcho.github.io/app/sitemap.thertcho.gz
+Sitemap: https://thertcho.github.io/assets/sitemap.thertcho.gz
+Sitemap: https://thertcho.github.io/css/sitemap.thertcho.gz
+Sitemap: https://thertcho.github.io/data/sitemap.thertcho.gz
+Sitemap: https://thertcho.github.io/includes/sitemap.thertcho.gz
+Sitemap: https://thertcho.github.io/item/sitemap.thertcho.gz
+Sitemap: https://thertcho.github.io/src/sitemap.thertcho.gz
